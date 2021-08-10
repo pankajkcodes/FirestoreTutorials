@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "576386944067",
+    "project_id": "firestoretutorials-c5ccf",
+    "storage_bucket": "firestoretutorials-c5ccf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576386944067:android:f859e087a4afb0101e98f6",
+        "android_client_info": {
+          "package_name": "com.pankajkcodes.firestoretutorials"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576386944067-5880q5565se3kujb8og8ulftma337pk5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWFcJKLxtpCCHWWuJKWdbNFN674v92XVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576386944067-5880q5565se3kujb8og8ulftma337pk5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
